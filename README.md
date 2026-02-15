@@ -1,2 +1,2 @@
-# Prueba_Sistemas_Multimedia local
-# Generacion de conflicto local
+# Prueba_Sistemas_Multimedia remoto y local
+# Prueba y generacion de conflicto remoto y local
